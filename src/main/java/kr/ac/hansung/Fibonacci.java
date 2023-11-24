@@ -19,7 +19,7 @@ public class Fibonacci {
             System.out.print("fibonacci("+i+")="+fib);`
             System.out.println();
         }
-    }`
+    }
 
     public static int fibonacci(int n) {
         if (n <= 1) {
